@@ -1,4 +1,0 @@
-HitPlaneOfPeople
-================
-
-Hit!Hit!Hit!
